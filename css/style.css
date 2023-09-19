@@ -856,13 +856,13 @@ color: #eeedf3; }
         transition: transform calc(var(--d) * 2) var(--e);
       }
       .card:nth-child(1):before {
-        background-image: url("../images/proy7.png");
+        background-image: url("../images/proy4.png");
       }
       .card:nth-child(2):before {
         background-image: url("../images/proy2.png");
       }
       .card:nth-child(3):before {
-        background-image: url("../images/proy4.png");
+        background-image: url("../images/proy7.png");
       }
       .card:nth-child(4):before {
         background-image: url("../images/proy5.png");
