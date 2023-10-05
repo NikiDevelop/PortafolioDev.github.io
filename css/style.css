@@ -862,10 +862,13 @@ color: #eeedf3; }
         background-image: url("../images/proy2.png");
       }
       .card:nth-child(3):before {
-        background-image: url("../images/proy7.png");
+        background-image: url("../images/proy3.png");
       }
       .card:nth-child(4):before {
         background-image: url("../images/proy5.png");
+      }
+      .card:nth-child(5):before {
+        background-image: url("../images/proy1.png");
       }
    
       
