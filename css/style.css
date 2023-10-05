@@ -856,7 +856,7 @@ color: #eeedf3; }
         transition: transform calc(var(--d) * 2) var(--e);
       }
       .card:nth-child(1):before {
-        background-image: url("../images/proy8.jpg");
+        background-image: url("../images/proy12.jpg");
       }
       .card:nth-child(2):before {
         background-image: url("../images/proy10.jpg");
