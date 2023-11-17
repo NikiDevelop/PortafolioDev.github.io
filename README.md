@@ -6,11 +6,13 @@ Actualmente me estoy especializando en Python con Django para realizar mis proye
 
 Algunas de las habilidades que estoy desarrollando son:<br> 
   • Desarrollo de aplicaciones web<br> 
-  • API REST<br> 
-  • Deploy Azure<br> 
-  • Maquetación HTML, CSS, Bootstrap<br> 
+  • Django REST Framework <br>
+  • API REST<br>
   • Mapeo (ORM)<br> 
+  • Azure <br> 
+  • Deploy <br> 
   • Patrones de diseño (MVC) y arquitectura<br> 
+  • Maquetación HTML, CSS, Bootstrap<br> 
   • Microservicios<br> 
   • Modularidad<br> 
   • Responsive<br> 
